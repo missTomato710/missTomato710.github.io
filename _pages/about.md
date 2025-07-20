@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhang Yuqing
+title: "Zhang Yuqing❥(^_-)"
 redirect_from: 
   - /about/
   - /about.html
