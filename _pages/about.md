@@ -9,7 +9,11 @@ redirect_from:
 
 Here is Zhang yuqing(张雨晴) 
 ======
+
 I am now an incoming ms student in the University of Hong Kong!
+
+Educations
+------
 
 [2025.09-2026.09] the University of Hong Kong  --- MEST
 
@@ -19,9 +23,9 @@ You can find my CV here:[Zhang Yuqing's Curriculum Vitae](../assets/).
 
 Research Experiences
 ------
+
 Internship
 ------
-
 
 Skills and Interests
 ------
