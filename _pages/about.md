@@ -18,8 +18,7 @@ I am now an incoming ms student in the University of Hong Kong!
 You can find my CV here:[Zhang Yuqing's Curriculum Vitae](../assets/).
 
 Research Experiences
-======
-
+------
 Internship
 ------
 
@@ -28,5 +27,4 @@ Skills and Interests
 ------
 
 
-**Markdown generator**
 
